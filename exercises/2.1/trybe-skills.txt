@@ -1,0 +1,5 @@
+Oq vou aprender na Trybe?
+
+- Unixa
+- Bash
+- Git
